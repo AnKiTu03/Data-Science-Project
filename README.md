@@ -1,10 +1,6 @@
 # Data-Scientist-Telegram-Trends
----
 ## The python-notebook file is added and contains code for the Automated Summarization feature. The input and output is also mentioned in the notebook
----
-
 ## Features
----
 ### Individual User Message Frequency
 - Measure the level of engagement for key influencers or highly active members.
 
