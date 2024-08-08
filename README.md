@@ -1,11 +1,10 @@
-# Data-Scientist-Telegram-Trends-
-
-# Chat Analytics System Features
-
-This document outlines the features that should be included in the Chat Analytics System to drive further engagement, ensure compliance, and gain insights into user interactions occurring on chat platforms.
+# Data-Scientist-Telegram-Trends
+---
+## The python-notebook file is added and contains code for the Automated Summarization feature. The input and output is also mentioned in the notebook
+---
 
 ## Features
-
+---
 ### Individual User Message Frequency
 - Measure the level of engagement for key influencers or highly active members.
 
