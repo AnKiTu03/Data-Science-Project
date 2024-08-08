@@ -12,16 +12,16 @@ Measure the level of engagement for key influencers or highly active members.
 ### Dynamic Topic Segmentation
 Apply NLP to identify and tag ongoing topics in the chat for theme change tracking over time.
 
-##### Spam Detection
+### Spam Detection
 Flag messages as probable spams due to repetitive patterns, suspicious links, or high-frequency messages from new users.
 
-##### Conversation Thread Analysis
+### Conversation Thread Analysis
 Identify messages that link back or respond to previous messages to understand the flow of conversations and user interactions.
 
-##### Anonymity Detection
+### Anonymity Detection
 Score messages for probable anonymity by masking user handles or sensitive content. This would, in particular, be quite useful in privacy-focused contexts.
 
-##### Conflict Resolution Trigger
+### Conflict Resolution Trigger
 Flag potential conflicts using aggressive keywords or escalating interactions to possibly trigger mediation or admin alerts.
 
 ### Cultural Sentiment Analysis
